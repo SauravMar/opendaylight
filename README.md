@@ -5,4 +5,4 @@ required.
 
 
 
-1.3.0-SS - Working
+1.3.0-SS - Working - Magnesium Build
